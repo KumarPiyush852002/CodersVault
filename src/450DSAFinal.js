@@ -25,7 +25,62 @@ export default [
 			},
 			{
 				"Topic": "Array",
-				"Problem": "Find the \"Kth\" max and min element of an array ",
+				"Problem": "Pascal's Triangle",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/pascals-triangle/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/1089580?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "Array",
+				"Problem": "Repeating and missing number",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/873366?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "Array",
+				"Problem": "2-sum problem",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/two-sum/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/pair-sum_697295?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+
+			{
+				"Topic": "Array",
+				"Problem": "4-sum problem",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/4sum/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/983605?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "Array",
+				"Problem": "Inversion of Array (Pre-req: Merge Sort)",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/pascals-triangle/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/1089580?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "Array",
+				"Problem": "Longest Substring without repeat",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://www.codingninjas.com/codestudio/problems/615?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/count-inversions_615"
+			},
+			{
+				"Topic": "Array",
+				"Problem": "Find the Kth max and min element of an array ",
 				"Done": false,
 				"Bookmark": false,
 				"Notes": "",
@@ -124,12 +179,30 @@ export default [
 			},
 			{
 				"Topic": "Array",
+				"Problem": "Grid unique paths",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/unique-paths/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/1081470?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "Array",
 				"Problem": "Merge Intervals",
 				"Done": false,
 				"Bookmark": false,
 				"Notes": "",
 				"URL": "https://leetcode.com/problems/merge-intervals/",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/merge-intervals_699917?topList=love-babbar-dsa-sheet-problems"
+			},
+			{
+				"Topic": "Array",
+				"Problem": "Longest Consecutive Sequence",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/longest-consecutive-sequence/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/759408?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
 			},
 			{
 				"Topic": "Array",
@@ -590,12 +663,30 @@ export default [
 			},
 			{
 				"Topic": "String",
+				"Problem": "Implement ATOI/STRSTR",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/string-to-integer-atoi/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/981270?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "String",
 				"Problem": "Rabin Karp Algo",
 				"Done": false,
 				"Bookmark": false,
 				"Notes": "",
 				"URL": "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/stringmatch-rabincarp_1115738?topList=love-babbar-dsa-sheet-problems"
+			},
+			{
+				"Topic": "String",
+				"Problem": "Compare version numbers",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/compare-version-numbers/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/1062582?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
 			},
 			{
 				"Topic": "String",
@@ -668,6 +759,15 @@ export default [
 				"Notes": "",
 				"URL": "https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/roman-number-to-integer_981308?topList=love-babbar-dsa-sheet-problems"
+			},
+			{
+				"Topic": "String",
+				"Problem": "Roman Number to Integer and vice versa",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/roman-to-integer/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/981308?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
 			},
 			{
 				"Topic": "String",
@@ -749,6 +849,15 @@ export default [
 				"Notes": "",
 				"URL": "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/minimum-characters-for-palindrome_893000?topList=love-babbar-dsa-sheet-problems"
+			},
+			{
+				"Topic": "String",
+				"Problem": "Z-function",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/1112619?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
 			},
 			{
 				"Topic": "String",
@@ -850,6 +959,24 @@ export default [
 			},
 			{
 				"Topic": "Searching & Sorting",
+				"Problem": "Floor in a BST",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos"
+			},
+			{
+				"Topic": "Searching & Sorting",
+				"Problem": "Ceil in a BST",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos"
+			},
+			{
+				"Topic": "Searching & Sorting",
 				"Problem": "Search in a rotated sorted array",
 				"Done": false,
 				"Bookmark": false,
@@ -865,6 +992,15 @@ export default [
 				"Notes": "",
 				"URL": "https://practice.geeksforgeeks.org/problems/count-squares3649/1",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/square-root-integral_893351?topList=love-babbar-dsa-sheet-problems"
+			},
+			{
+				"Topic": "Searching & Sorting",
+				"Problem": "BST iterator",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/binary-search-tree-iterator/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/1112601?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
 			},
 			{
 				"Topic": "Searching & Sorting",
@@ -886,6 +1022,15 @@ export default [
 			},
 			{
 				"Topic": "Searching & Sorting",
+				"Problem": "Size of the largest BST in a Binary Tree",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/893103?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "Searching & Sorting",
 				"Problem": "Find the repeating and the missing",
 				"Done": false,
 				"Bookmark": false,
@@ -901,6 +1046,15 @@ export default [
 				"Notes": "",
 				"URL": "https://practice.geeksforgeeks.org/problems/majority-element/0",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/majority-element_842495?topList=love-babbar-dsa-sheet-problems"
+			},
+			{
+				"Topic": "Searching & Sorting",
+				"Problem": "Serialize and deserial a binary tree",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/920328?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
 			},
 			{
 				"Topic": "Searching & Sorting",
