@@ -2610,6 +2610,15 @@ export default [
 			},
 			{
 				"Topic": "BackTracking",
+				"Problem": "Combinational Sum 2",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/combination-sum-ii/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/1112622?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "BackTracking",
 				"Problem": "Find Maximum number possible by doing at-most K swaps",
 				"Done": false,
 				"Bookmark": false,
@@ -2625,6 +2634,15 @@ export default [
 				"Notes": "",
 				"URL": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
 				"URL2": ""
+			},
+			{
+				"Topic": "BackTracking",
+				"Problem": "K-th permutation Sequence ",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/permutation-sequence/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/1112626?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
 			},
 			{
 				"Topic": "BackTracking",
@@ -2646,6 +2664,15 @@ export default [
 			},
 			{
 				"Topic": "BackTracking",
+				"Problem": "Solving Cryptarithmetic Puzzles",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://www.geeksforgeeks.org/solving-cryptarithmetic-puzzles-backtracking-8/",
+				"URL2": ""
+			},
+			{
+				"Topic": "BackTracking",
 				"Problem": "Print all possible paths from top left to bottom right of a mXn matrix",
 				"Done": false,
 				"Bookmark": false,
@@ -2655,12 +2682,21 @@ export default [
 			},
 			{
 				"Topic": "BackTracking",
-				"Problem": "Partition of a set intoK subsets with equal sum",
+				"Problem": "Partition of a set into K subsets with equal sum",
 				"Done": false,
 				"Bookmark": false,
 				"Notes": "",
 				"URL": "https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/partition-to-k-equal-sum-subsets_843262?topList=love-babbar-dsa-sheet-problems"
+			},
+			{
+				"Topic": "BackTracking",
+				"Problem": "Subset-II problem",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/subsets-ii/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/unique-subsets_3625236?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
 			},
 			{
 				"Topic": "BackTracking",
@@ -2687,6 +2723,24 @@ export default [
 				"Notes": "",
 				"URL": "https://www.tutorialspoint.com/javaexamples/data_stack.htm",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/stack-implementation-using-array_3210209?topList=love-babbar-dsa-sheet-problems"
+			},
+			{
+				"Topic": "Stacks & Queues",
+				"Problem": " Find the maximum of minimums of every window size",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/max-of-min_982935?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "Stacks & Queues",
+				"Problem": "Stock Span Problem",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/online-stock-span/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/span-of-ninja-coin_1475049?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
 			},
 			{
 				"Topic": "Stacks & Queues",
@@ -2723,6 +2777,15 @@ export default [
 				"Notes": "",
 				"URL": "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/n-stacks-in-an-array_1164271?topList=love-babbar-dsa-sheet-problems"
+			},
+			{
+				"Topic": "Stacks & Queues",
+				"Problem": "Backspace String Compare",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/backspace-string-compare/",
+				"URL2": ""
 			},
 			{
 				"Topic": "Stacks & Queues",
@@ -2769,6 +2832,7 @@ export default [
 				"URL": "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/the-celebrity-problem_982769?topList=love-babbar-dsa-sheet-problems"
 			},
+
 			{
 				"Topic": "Stacks & Queues",
 				"Problem": "Arithmetic Expression evaluation",
@@ -3082,6 +3146,15 @@ export default [
 				"Notes": "",
 				"URL": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_975379?topList=love-babbar-dsa-sheet-problems"
+			},
+			{
+				"Topic": "Heap",
+				"Problem": "K most frequent elements",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/top-k-frequent-elements/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/k-most-frequent-elements_3167808?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
 			},
 			{
 				"Topic": "Heap",
@@ -3722,12 +3795,66 @@ export default [
 			},
 			{
 				"Topic": "Trie",
+				"Problem": "Implement Trie (Prefix Tree)",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/implement-trie_631356?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "Trie",
+				"Problem": "Implement Trie II",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/implement-trie_1387095?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "Trie",
 				"Problem": "Given a sequence of words, print all anagrams together",
 				"Done": false,
 				"Bookmark": false,
 				"Notes": "",
 				"URL": "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/group-anagrams_800285?topList=love-babbar-dsa-sheet-problems"
+			},
+			{
+				"Topic": "Trie",
+				"Problem": "Design Add and Search Words Data Structure",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+				"URL2": ""
+			},
+			{
+				"Topic": "Trie",
+				"Problem": "Maximum XOR of Two Numbers in an Array",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/maximum-xor_3119012?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "Trie",
+				"Problem": "Maximum XOR With an Element From Array",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+				"URL2": "hhttps://www.codingninjas.com/codestudio/problems/max-xor-queries_1382020?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "Trie",
+				"Problem": "Longest String with all prefixes",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/complete-string_2687860?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
 			},
 			{
 				"Topic": "Trie",
