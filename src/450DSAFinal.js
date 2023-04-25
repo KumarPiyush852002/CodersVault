@@ -1639,7 +1639,95 @@ export default [
 				"Notes": "",
 				"URL": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/first-unique-character-in-a-string_893404?topList=love-babbar-dsa-sheet-problems"
+			},
+
+
+			{
+				"Topic": "LinkedList",
+				"Problem": "Find the middle of LinkedList",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/middle-of-the-linked-list/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/973250?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "LinkedList",
+				"Problem": "Merge two sorted Linked List (use method used in mergeSort)",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/merge-two-sorted-lists/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/800332?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "LinkedList",
+				"Problem": "Remove N-th node from back of LinkedList",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/799912?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+			},
+			{
+				"Topic": "LinkedList",
+				"Problem": "Delete Node in a Linked List",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/1105578?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+
+			},
+			{
+				"Topic": "LinkedList",
+				"Problem": "Merge k Sorted Lists",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/merge-k-sorted-lists/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1?utm_source=youtube&utm_medium=collab_fraz_websitelink&utm_campaign=merge-k-sorted-linked-lists"
+
+			},
+			{
+				"Topic": "LinkedList",
+				"Problem": "Convert Binary Number in a Linked List to Integer",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+				"URL2": ""
+			},
+			{
+				"Topic": "LinkedList",
+				"Problem": "Subtraction in Linked List",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://practice.geeksforgeeks.org/problems/subtraction-in-linked-list/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+				"URL2": ""
+			},
+			{
+				"Topic": "LinkedList",
+				"Problem": "Rearrange a Linked List in Zig-Zag fashion",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/",
+				"URL2": ""
+			},
+			{
+				"Topic": "LinkedList",
+				"Problem": "Multiply two linked lists",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+				"URL2": ""
 			}
+
+
+
 		],
 	},
 	{
@@ -1962,7 +2050,97 @@ export default [
 				"Notes": "",
 				"URL": "https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/isomorphic-trees_794946?topList=love-babbar-dsa-sheet-problems"
+			},
+
+
+			{
+				"Topic": "Binary Trees",
+				"Problem": "Preorder, Inorder, and Postorder Traversal in one Traversal",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://practice.geeksforgeeks.org/problems/postorder-traversal-iterative/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=postorder-traversal-iterative",
+				"URL2": ""
+			},
+			{
+				"Topic": "Binary Trees",
+				"Problem": "Maximum path sum",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL2": "https://practice.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=maximum-path-sum-from-any-node",
+				"URL": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+			},
+			{
+				"Topic": "Binary Trees",
+				"Problem": "Check if two trees are identical or not",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+
+				"URL": "https://leetcode.com/problems/same-tree/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=determine-if-two-trees-are-identical"
+			},
+			{
+				"Topic": "Binary Trees",
+				"Problem": "Root to Node Path in Binary Tree",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://practice.geeksforgeeks.org/problems/root-to-leaf-paths/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=root-to-leaf-paths",
+				"URL2": ""
+			},
+			{
+				"Topic": "Binary Trees",
+				"Problem": "Maximum width of a Binary Tree",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://practice.geeksforgeeks.org/problems/maximum-width-of-tree/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=maximum-width-of-tree",
+				"URL2": "https://leetcode.com/problems/maximum-width-of-binary-tree/"
+			},
+			{
+				"Topic": "Binary Trees",
+				"Problem": "Minimum time taken to BURN the Binary Tree from a Node",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://practice.geeksforgeeks.org/problems/burning-tree/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=burning-tree",
+				"URL2": "https://www.codingninjas.com/codestudio/problems/time-to-burn-tree_630563?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos"
+			},
+			{
+				"Topic": "Binary Trees",
+				"Problem": "Count total Nodes in a COMPLETE Binary Tree",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/count-complete-tree-nodes/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=count-number-of-nodes-in-a-binary-tree	",
+
+			},
+			{
+				"Topic": "Binary Trees",
+				"Problem": "Serialize and deserialize Binary Tree",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=serialize-and-deserialize-a-binary-tree"
+
+			},
+			{
+				"Topic": "Binary Trees",
+				"Problem": "Flatten Binary Tree to LinkedList",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=flatten-binary-tree-to-linked-list"
+
 			}
+
+
+
 		],
 	},
 	{
@@ -2168,7 +2346,68 @@ export default [
 				"Notes": "",
 				"URL": "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/flatten-bst-to-a-sorted-list_1169459?topList=love-babbar-dsa-sheet-problems"
+			},
+
+
+			{
+				"Topic": "Binary Search Trees",
+				"Problem": "Ceil in a Binary Search Tree",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://practice.geeksforgeeks.org/problems/implementing-ceil-in-bst/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implementing-ceil-in-bst",
+				"URL2": ""
+			},
+			{
+				"Topic": "Binary Search Trees",
+				"Problem": "Floor in a Binary Search Tree",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://practice.geeksforgeeks.org/problems/floor-in-bst/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=floor-in-bst",
+				"URL2": ""
+			},
+			{
+				"Topic": "Binary Search Trees",
+				"Problem": "Lowest Common Ancestor of a Binary Search Tree",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=lowest-common-ancestor"
+
+			},
+			{
+				"Topic": "Binary Search Trees",
+				"Problem": "Merge 2 BST’s",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/binary-search-tree-iterator/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=merge-two-bst-s"
+			},
+			{
+				"Topic": "Binary Search Trees",
+				"Problem": "Two Sum In BST | Check if there exists a pair with Sum K",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-a-pair-with-given-target-in-bst",
+			},
+			{
+				"Topic": "Binary Search Trees",
+				"Problem": "Recover BST | Correct BST with two nodes swapped",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/recover-binary-search-tree/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=fixed-two-nodes-of-a-bst"
 			}
+
+
+
+
 		],
 	},
 	{
@@ -2491,7 +2730,81 @@ export default [
 				"Notes": "",
 				"URL": "https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/",
 				"URL2": "https://www.codingninjas.com/codestudio/problems/maximum-equal-sum-stack_1164270?topList=love-babbar-dsa-sheet-problems"
+			},
+
+			{
+				"Topic": "Greedy",
+				"Problem": "Lemonade Change",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/lemonade-change/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/lemonade-change/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=lemonade-change"
+			},
+			{
+				"Topic": "Greedy",
+				"Problem": "Valid Paranthesis Checker",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/valid-parenthesis-string/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=parenthesis-checker"
+			},
+			{
+				"Topic": "Greedy",
+				"Problem": "N meetings in one room",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=n-meetings-in-one-room",
+				"URL2": ""
+			},
+			{
+				"Topic": "Greedy",
+				"Problem": "Jump Game",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/jump-game/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/jump-game/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=jump-game"
+			},
+			{
+				"Topic": "Greedy",
+				"Problem": "Jump Game 2",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/jump-game-ii/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=minimum-number-of-jumps"
+			},
+			{
+				"Topic": "Greedy",
+				"Problem": "Insert Interval",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/insert-interval/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/insert-interval-1666733333/1"
+			},
+			{
+				"Topic": "Greedy",
+				"Problem": "Merge Intervals",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/merge-intervals/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/8a644e94faaa94968d8665ba9e0a80d1ae3e0a2d/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=overlapping_intervals"
+			},
+			{
+				"Topic": "Greedy",
+				"Problem": "Non-overlapping Intervals",
+				"Done": false,
+				"Bookmark": false,
+				"Notes": "",
+				"URL": "https://leetcode.com/problems/non-overlapping-intervals/",
+				"URL2": "https://practice.geeksforgeeks.org/problems/non-overlapping-intervals/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=non-overlapping-intervals"
 			}
+
 		],
 	},
 	{
