@@ -41,8 +41,9 @@ export default function TopicCard({ questionData }) {
               style={{ textDecoration: "none" }}
             >
               <Card
-                className={`mb-3 inprogress-card animate__slideInDown hvr-grow ${dark ? "darkCard" : ""
-                  }`}
+                className={`mb-3 inprogress-card animate__slideInDown hvr-grow ${
+                  dark ? "darkCard" : ""
+                }`}
               >
                 <Card.Body>
                   <Row>
@@ -93,8 +94,9 @@ export default function TopicCard({ questionData }) {
               style={{ textDecoration: "none" }}
             >
               <Card
-                className={`mb-3 notstarted-card hvr-grow ${dark ? "darkCard" : ""
-                  }`}
+                className={`mb-3 notstarted-card hvr-grow ${
+                  dark ? "darkCard" : ""
+                }`}
               >
                 <Card.Body>
                   <Row>
@@ -104,7 +106,7 @@ export default function TopicCard({ questionData }) {
                         {topicName}{" "}
                       </Card.Title>
                     </Col>
-                    <Col>
+                    <Col style={{ flexGrow: 0.5, paddingLeft: "5px" }}>
                       <h4>
                         <Badge
                           pill
@@ -112,7 +114,7 @@ export default function TopicCard({ questionData }) {
                           className="float-right"
                           style={{ fontWeight: "500", cursor: "pointer" }}
                         >
-                          Start Now
+                          Kickstart Now
                         </Badge>
                       </h4>
                     </Col>
@@ -134,39 +136,50 @@ export default function TopicCard({ questionData }) {
     }
   });
 
-
   const promotionTile = (
     <Fade duration={500 + 1 * 50} key={-1}>
       <div className="col mb-4">
         <Link
-          to={{ pathname: "http://bit.ly/425Yel5" }}
+          to={{
+            pathname:
+              "https://leetcode.com/problem-list/top-interview-questions/",
+          }}
           target="_blank"
           style={{ textDecoration: "none" }}
         >
           <Card
-            className={`mb-3 promotional-card hvr-grow ${dark ? "darkCard" : ""
-              }`}
+            className={`mb-3 promotional-card hvr-grow ${
+              dark ? "darkCard" : ""
+            }`}
           >
             <Card.Body>
-              <Row style={{ justifyContent: 'center' }}>
+              <Row style={{ justifyContent: "center" }}>
                 <Card.Title className="promotional-heading">
                   {" "}
-                  {"21 Days Challenge 💪"}{" "}
+                  {"Top Interview Questions 💻"}{" "}
                 </Card.Title>
               </Row>
               <Card.Text className="promotional-subtext">
-              Level up your summer with our<br></br>
-                <span style={{fontWeight:700}}>21 Days Beginner Coding Challenge</span>
+                <span style={{ fontWeight: 700 }}>
+                  Crack the Interview code with our
+                </span>
                 <br></br>
-                for a solid foundation in coding
+                high-frequency problems
+                <br></br>
+                and land your{" "}
+                <span style={{ fontWeight: 700 }}>dream job!</span>
               </Card.Text>
               <h4 className="promotional-cta mb-1">
                 <Badge
                   pill
                   variant="primary"
-                  style={{ fontWeight: "700", cursor: "pointer", backgroundColor:"#fa7328" }}
+                  style={{
+                    fontWeight: "700",
+                    cursor: "pointer",
+                    backgroundColor: "#FF6D60",
+                  }}
                 >
-                  Start Now 
+                  Kickstart Now
                 </Badge>
               </h4>
             </Card.Body>
@@ -176,7 +189,7 @@ export default function TopicCard({ questionData }) {
     </Fade>
   );
 
-  topicCard.splice(1, 0, promotionTile)
+  topicCard.splice(1, 0, promotionTile);
 
   return (
     <>
@@ -190,9 +203,9 @@ export default function TopicCard({ questionData }) {
       <h4 className="text-center mb-4">
         {totalSolved
           ? `Total Questions Solved : ${totalSolved} (${(
-            (totalSolved / totalQuestions) *
-            100
-          ).toFixed(2)}% Done)`
+              (totalSolved / totalQuestions) *
+              100
+            ).toFixed(2)}% Done)`
           : "Start Solving"}
         <p className="percentDone container mt-1">
           {totalSolved ? (
