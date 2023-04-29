@@ -34,6 +34,19 @@ function NavBar({ dark, setDark }) {
               </a>
             </li>
             <li className="nav-item">
+              <a
+                // exact
+                // to="/learn"
+                // activeClassName="active"
+                // className="nav-links"
+                // onClick={handleClick}
+                href="https://whimsical.com/dsa-in-90-days-EmPkf5utoFGRMnRqJjM6YV"
+                style={{ color: dark ? "#fff" : "#000" }}
+              >
+                DSA-Sprint
+              </a>
+            </li>
+            <li className="nav-item">
               <NavLink
                 exact
                 to="/about"
