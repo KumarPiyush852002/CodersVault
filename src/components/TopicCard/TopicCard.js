@@ -41,9 +41,8 @@ export default function TopicCard({ questionData }) {
               style={{ textDecoration: "none" }}
             >
               <Card
-                className={`mb-3 inprogress-card animate__slideInDown hvr-grow ${
-                  dark ? "darkCard" : ""
-                }`}
+                className={`mb-3 inprogress-card animate__slideInDown hvr-grow ${dark ? "darkCard" : ""
+                  }`}
               >
                 <Card.Body>
                   <Row>
@@ -94,9 +93,8 @@ export default function TopicCard({ questionData }) {
               style={{ textDecoration: "none" }}
             >
               <Card
-                className={`mb-3 notstarted-card hvr-grow ${
-                  dark ? "darkCard" : ""
-                }`}
+                className={`mb-3 notstarted-card hvr-grow ${dark ? "darkCard" : ""
+                  }`}
               >
                 <Card.Body>
                   <Row>
@@ -148,9 +146,8 @@ export default function TopicCard({ questionData }) {
           style={{ textDecoration: "none" }}
         >
           <Card
-            className={`mb-3 promotional-card hvr-grow ${
-              dark ? "darkCard" : ""
-            }`}
+            className={`mb-3 promotional-card hvr-grow ${dark ? "darkCard" : ""
+              }`}
           >
             <Card.Body>
               <Row style={{ justifyContent: "center" }}>
@@ -203,9 +200,9 @@ export default function TopicCard({ questionData }) {
       <h4 className="text-center mb-4">
         {totalSolved
           ? `Total Questions Solved : ${totalSolved} (${(
-              (totalSolved / totalQuestions) *
-              100
-            ).toFixed(2)}% Done)`
+            (totalSolved / totalQuestions) *
+            100
+          ).toFixed(2)}% Done)`
           : "Start Solving"}
         <p className="percentDone container mt-1">
           {totalSolved ? (
