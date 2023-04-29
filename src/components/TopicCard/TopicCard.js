@@ -134,6 +134,58 @@ export default function TopicCard({ questionData }) {
     }
   });
 
+  const placementPrepTile = (
+    <Fade duration={500 + 1 * 50} key={-1}>
+      <div className="col mb-4">
+        <Link
+          to={{
+            pathname:
+              "https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/",
+          }}
+          target="_blank"
+          style={{ textDecoration: "none" }}
+        >
+          <Card
+            className={`mb-3 promotional-card hvr-grow ${dark ? "darkCard" : ""
+              }`}
+          >
+            <Card.Body>
+              <Row style={{ justifyContent: "center" }}>
+                <Card.Title className="promotional-heading">
+                  {" "}
+                  {"CodeRush ⚡"}{" "}
+                </Card.Title>
+              </Row>
+              <Card.Text className="promotional-subtext">
+                Unlock the secrets to acing coding interviews with
+                <br></br>
+                <span style={{ fontWeight: 700 }}>
+                  Striver's SDE Sheet -
+                </span>
+                <br></br>
+
+                <span style={{ fontWeight: 700 }}>the ultimate 30-day prep companion!</span>
+              </Card.Text>
+              <h4 className="promotional-cta mb-1">
+                <Badge
+                  pill
+                  variant="primary"
+                  style={{
+                    fontWeight: "700",
+                    cursor: "pointer",
+                    backgroundColor: "#FF6D60",
+                  }}
+                >
+                  Make It Happen
+                </Badge>
+              </h4>
+            </Card.Body>
+          </Card>
+        </Link>
+      </div>
+    </Fade>
+  );
+
   const promotionTile = (
     <Fade duration={500 + 1 * 50} key={-1}>
       <div className="col mb-4">
@@ -187,14 +239,18 @@ export default function TopicCard({ questionData }) {
   );
 
   topicCard.splice(1, 0, promotionTile);
+  topicCard.splice(2, 0, placementPrepTile);
 
   return (
     <>
       <h3 className="app-heading2 text-center mb-3">
-        Your Gateway to crack DSA{" "}
-        <span role="img" aria-label="fire">
-          🔥
+        <span style={{ fontWeight: 700 }}>
+          Your DSA Game Changer{" "}
+          <span role="img" aria-label="fire">
+            🔥
+          </span>
         </span>
+
       </h3>
 
       <h4 className="text-center mb-4">
